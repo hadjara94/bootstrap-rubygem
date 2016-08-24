@@ -52,7 +52,7 @@ $gray-lighter:              #F4F6F8 !default; // #eee
 $gray-lightest:             #f7f7f9 !default;
 
 $brand-primary:             #0B486B !default; // #337ab7
-$brand-success:             #5cb85c !default;
+$brand-success:             #009376 !default;
 $brand-info:                #5bc0de !default;
 $brand-warning:             #f0ad4e !default;
 $brand-danger:              #d9534f !default;
@@ -311,9 +311,8 @@ $btn-border-radius:              $border-radius !default;
 $btn-border-radius-lg:           $border-radius-lg !default;
 $btn-border-radius-sm:           $border-radius-sm !default;
 
-
 // Forms
-
+$connexion-form-background:       #fefefe !default;
 $input-padding-x:                .75rem !default;
 $input-padding-y:                .5rem !default;
 $input-line-height:              1.25 !default;
